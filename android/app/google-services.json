@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588914281788",
+    "project_id": "find-my-shop-8ab27",
+    "storage_bucket": "find-my-shop-8ab27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588914281788:android:23d9328f0b76123bcd2239",
+        "android_client_info": {
+          "package_name": "com.findmyshop.find_my_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB158QSUNaBoXdjtkW6lMEP17G7OMvJ4xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
